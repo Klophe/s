@@ -1,0 +1,29 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "FaunaBedrock",
+		"description": "sammysblocks.com",
+		"uuid": "e51cdd9f-c688-4de2-9252-2c848e28455b",
+		"version": [
+			1,
+			0,
+			0
+		],
+		"min_engine_version": [
+			1,
+			13,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "resources",
+			"uuid": "e5ee4a16-04b5-45e8-8fd9-9c8c5472ba44",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
